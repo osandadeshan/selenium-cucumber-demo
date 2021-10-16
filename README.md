@@ -36,6 +36,6 @@ To run the specific feature file cucumber uses standard Junit Runner and specify
 
 ## How to run tests
 
-Execute ***`mvn clean test`*** on the terminal
+Execute ***`mvn clean test`*** on the terminal.
 
-After the execution is completed, you will be able to see the report at "***target/cucumber-reports/report.html***"
+After the execution is completed, you will be able to see the report at "***target/cucumber-reports/report.html***".
